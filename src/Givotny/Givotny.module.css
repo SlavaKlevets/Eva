@@ -1,0 +1,30 @@
+.ddd{
+    width: 90%;
+    height: auto;
+    display: block;
+}
+
+.wrapper3{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wrapper4{
+    width: 220px;
+    justify-content: center;
+    margin: 0 auto;
+}
+.image{
+    display: block;
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+}
+.wrapper4 h2{
+    text-align: center;
+}
+.wrapper4 p{
+    text-align: center;
+}

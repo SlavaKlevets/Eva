@@ -1,0 +1,50 @@
+.ddd{
+    width: 100%;
+    display: block;
+    padding-top: 60px;
+}
+
+.category{
+    display: block;
+    text-align: left;
+}
+
+.category li{
+    border-bottom: 1px solid #968f8f;
+    height: auto;
+    width: 50%;
+    padding:15px;
+}
+
+.wrapper1{
+    display: flex;
+    width: 100%;
+}
+
+.wrapper2{
+    width: 30%;
+    display: block;
+    justify-content: center;
+}
+
+.wrapper3{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wrapper4{
+    width: 280px;
+    margin: 5px;
+}
+
+.naimenovanie{
+    width: 100%;
+    height: 120px;
+    background:url("https://eco-wood-art.by/wp-content/themes/bb/acf-blocks/footers/footer-1/img/bg.jpg");
+}
+
+.zagolovok{
+    padding-top: 50px;
+}

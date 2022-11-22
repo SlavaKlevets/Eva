@@ -1,0 +1,64 @@
+.wrapper{
+    display: block;
+    width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+}
+.wrapper1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+.wrapper1 div{
+    width: 40%;
+    margin: 30px;
+}
+.wrapper2{
+    display: block;
+    width: 100%;
+    border: 1px solid #754f21;
+    height: auto;
+    padding:20px 20px 60px 20px;
+    justify-content: center;
+    margin: 0 auto;
+}
+.wrapper2 h1{
+    padding: 20px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+label{
+    display: block;
+    position: relative;
+    text-align: left;
+    position: relative;
+}
+form{
+    position: relative;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.wrapper2 button{
+    position: relative;
+    display: block;
+    width: auto;
+    padding: 10px;
+    margin: 10px;
+    height: auto;
+    border:none;
+    background-color: orange;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+button:hover{
+    background-color: brown;
+}

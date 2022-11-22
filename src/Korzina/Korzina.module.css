@@ -1,0 +1,48 @@
+.ddd{
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wrapper4{
+    position: relative;
+    width:30%;
+    height: auto;
+    margin: 10px;
+}
+
+.img1{
+    width: auto;
+    height: 30%;
+    object-fit: cover;
+    position: relative;
+    padding-top: 20px;
+
+}
+
+.wrapper4 h2{
+    text-align: center;
+    height: 150px;
+}
+
+.wrapper4 p{
+    text-align: center;
+}
+.but1{
+    background-color: #f5b06d;
+    width: 100px;
+    border: none;
+    height: 35px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 0px;
+}
+
+.but1:hover{
+    background-color: #ee0b0b;
+}
+.pusta{
+    padding-top: 150px;
+    font-size: 50px;
+    color: coral;
+}

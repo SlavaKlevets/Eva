@@ -1,0 +1,28 @@
+.wrap1{
+    width: 100%;
+    height: auto;
+    background: url("https://eco-wood-art.by/wp-content/themes/bb/acf-blocks/footers/footer-1/img/bg.jpg");
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: left;
+}
+.zagolovok{
+    padding: 150px 0 50px 0;
+    text-align: center;
+    margin: 0px;
+}
+.info{
+    justify-content: center;
+
+    width: 80%;
+    margin: 0 auto;
+}
+.poleznoe{
+    display: block;
+    position: relative;
+    text-align: left;
+}
+.silka{
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+.image{
+    justify-content: center;
+    margin: 0 auto;
+    width:90% ;
+}
+.wrapper{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+}

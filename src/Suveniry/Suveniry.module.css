@@ -1,0 +1,28 @@
+.ddd{
+    height: auto;
+    display: block;
+}
+
+.wrapper3{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wrapper4{
+    width: 20%;
+    margin: 30px;
+}
+
+@media (max-width:1335px) {
+    img{
+        width: 100%;
+    }
+}
+
+@media (max-width:1572px) {
+    img{
+        width: 100%;
+    }
+}
